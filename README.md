@@ -42,8 +42,8 @@ Failure analysis of Water Distribution Networks using WNTR and complex network t
 • Built with:
 
     Python (Numpy - Pandas - Matplotlib - scikit-learn - Scipy)
-    Water Network Tool for Resilience (WNTR) <https://wntr.readthedocs.io/en/latest/index.html> 
-    NetworkX
+    Water Network Tool for Resilience (WNTR) (https://wntr.readthedocs.io/en/latest/index.html)
+    NetworkX (https://networkx.org/)
 
 ------------------------------------------------------------------------------------------------------
 
