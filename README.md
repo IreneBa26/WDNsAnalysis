@@ -49,11 +49,11 @@ Failure analysis of Water Distribution Networks using WNTR and complex network t
 
 • Project Folder:
 
-  + graph/networks: Folder containing benchmark networks
-  + graph/failure_duration.py: Script evaluating failure duration
-  + graph/falure_magnitude.py: Script evaluating failure magnitude
-  + graph/fail_correlation.py: Script evaluating correlation among metrics (main project file)
-  + presentation.pdf: Project overview presentation
+  + WDNsAnalysis/networks: Folder containing benchmark networks
+  + failure_duration.py: Script evaluating failure duration
+  + falure_magnitude.py: Script evaluating failure magnitude
+  + fail_correlation.py: Script evaluating correlation among metrics (main project file)
+  + presentation.pdf: Project overview and results presentation
 
 ------------------------------------------------------------------------------------------------------
 
