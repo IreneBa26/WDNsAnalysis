@@ -41,9 +41,9 @@ Failure analysis of Water Distribution Networks using WNTR and complex network t
 
 • Built with:
 
-    Python (Numpy - Pandas - Matplotlib - scikit-learn - Scipy)
-    Water Network Tool for Resilience (WNTR) (https://wntr.readthedocs.io/en/latest/index.html)
-    NetworkX (https://networkx.org/)
+  - Python (Numpy - Pandas - Matplotlib - scikit-learn - Scipy)
+  - Water Network Tool for Resilience (WNTR) 
+  - NetworkX
 
 ------------------------------------------------------------------------------------------------------
 
@@ -59,13 +59,16 @@ Failure analysis of Water Distribution Networks using WNTR and complex network t
 
 • Getting started:
 
-   Prerequisites: Python, WNTR
+   Prerequisites: 
+     - Python,
+     - WNTR (https://wntr.readthedocs.io/en/latest/index.html)
+     - NetworkX (https://networkx.org/)
 
 ------------------------------------------------------------------------------------------------------
 
 • Installation:
 
-1) Install WNTR tool in the local environment (https://wntr.readthedocs.io/en/latest/installation.html)
+1) Install WNTR tool in the local environment 
 
 2) Choose a network from the "networks" folder or import an .inp file
 
