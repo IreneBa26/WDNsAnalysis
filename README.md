@@ -7,11 +7,11 @@ Failure analysis of Water Distribution Networks using WNTR and complex network t
 
 • About the project:
 
-  The main goal of this project is the construction of a surrogate model of Water Distribution
-  Network (WDN) applying Complex Network Theory principles. 
+  The main goal of this project is the construction of a **surrogate model** of **Water Distribution
+  Network (WDN)** applying **Complex Network Theory** principles. 
   This work combines concepts from water network analysis with elements from the analysis of complex networks and graphs.
   The proposed methodology is based on the Water Network Tool for Resilience (WNTR) tool, 
-  which can generate a NetworkX data object that stores network connectivity as a graph. 
+  which can generate a NetworkX data object that stores network connectivity as a **graph**. 
   The ability to easily integrate NetworkX with WNTR facilitates the use of numerous standard graph algorithms, 
   including algorithms that describe network structure.
   A NetworkX graph generated from a water network model stores the start and end node of each link, node coordinates, 
@@ -22,7 +22,7 @@ Failure analysis of Water Distribution Networks using WNTR and complex network t
 
   The project implements algorithms to evaluate the correlation between complex network theory metrics 
   and water distribution metrics.
-  The calculations performed, evaluate the "small world" effect, graph theory measures for the 
+  The calculations performed, evaluate the **"small world" effect**, graph theory measures for the 
   analysis of networks and hydraulic paramethers in relation to the intensity and duration of failures,
   for example, deficit in the fulfilled water demand, due to insufficient pressure in network. 
 
@@ -30,9 +30,10 @@ Failure analysis of Water Distribution Networks using WNTR and complex network t
   nodes elevation, water flow, water quality, operational status, pressure, simulation time and others.
 
   Used failure indexes: 
-  Failure duration: Node-related measure - Average duration of failure occurred to a specific node during simulation time
+  
+  **Failure duration**: Node-related measure - Average duration of failure occurred to a specific node during simulation time
 
-  Failure magnitude: Failure magnitude at nodes evaluates how bad the water shortage is, it is expressed
+  **Failure magnitude**: Failure magnitude at nodes evaluates how bad the water shortage is, it is expressed
                      as the percentage of unmet water demand
 
   The results showed an inverse correlation between the "small world" property and the failure duration index. 
